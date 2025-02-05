@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AsteroidDash.dir/includes_CXX.rsp  -g -g -std=gnu++11 -o CMakeFiles\\AsteroidDash.dir\\AsteroidDash.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_2\\AsteroidDash.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/AsteroidDash.cpp",
+  "output": "CMakeFiles/AsteroidDash.dir/AsteroidDash.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AsteroidDash.dir/includes_CXX.rsp  -g -g -std=gnu++11 -o CMakeFiles\\AsteroidDash.dir\\CelestialObject.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_2\\CelestialObject.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/CelestialObject.cpp",
+  "output": "CMakeFiles/AsteroidDash.dir/CelestialObject.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AsteroidDash.dir/includes_CXX.rsp  -g -g -std=gnu++11 -o CMakeFiles\\AsteroidDash.dir\\GameController.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_2\\GameController.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/GameController.cpp",
+  "output": "CMakeFiles/AsteroidDash.dir/GameController.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AsteroidDash.dir/includes_CXX.rsp  -g -g -std=gnu++11 -o CMakeFiles\\AsteroidDash.dir\\Leaderboard.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_2\\Leaderboard.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/Leaderboard.cpp",
+  "output": "CMakeFiles/AsteroidDash.dir/Leaderboard.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AsteroidDash.dir/includes_CXX.rsp  -g -g -std=gnu++11 -o CMakeFiles\\AsteroidDash.dir\\LeaderboardEntry.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_2\\LeaderboardEntry.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/LeaderboardEntry.cpp",
+  "output": "CMakeFiles/AsteroidDash.dir/LeaderboardEntry.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AsteroidDash.dir/includes_CXX.rsp  -g -g -std=gnu++11 -o CMakeFiles\\AsteroidDash.dir\\Player.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_2\\Player.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/Player.cpp",
+  "output": "CMakeFiles/AsteroidDash.dir/Player.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/AsteroidDash.dir/includes_CXX.rsp  -g -g -std=gnu++11 -o CMakeFiles\\AsteroidDash.dir\\main.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_2\\main.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/main.cpp",
+  "output": "CMakeFiles/AsteroidDash.dir/main.cpp.obj"
+}
+]

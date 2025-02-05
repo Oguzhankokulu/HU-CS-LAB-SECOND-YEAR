@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\src\\main.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_1\\src\\main.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/src/main.cpp",
+  "output": "CMakeFiles/clearvision.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\src\\SecretImage.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_1\\src\\SecretImage.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/src/SecretImage.cpp",
+  "output": "CMakeFiles/clearvision.dir/src/SecretImage.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\src\\GrayscaleImage.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_1\\src\\GrayscaleImage.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/src/GrayscaleImage.cpp",
+  "output": "CMakeFiles/clearvision.dir/src/GrayscaleImage.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\src\\Filter.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_1\\src\\Filter.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/src/Filter.cpp",
+  "output": "CMakeFiles/clearvision.dir/src/Filter.cpp.obj"
+},
+{
+  "directory": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\src\\Crypto.cpp.obj -c C:\\Users\\ahmet\\CPP_Projects\\School\\Project_Assignment_1\\src\\Crypto.cpp",
+  "file": "C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/src/Crypto.cpp",
+  "output": "CMakeFiles/clearvision.dir/src/Crypto.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/build/CMakeFiles/clearvision.dir
+C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/build/CMakeFiles/edit_cache.dir
+C:/Users/ahmet/CPP_Projects/School/Project_Assignment_1/build/CMakeFiles/rebuild_cache.dir
