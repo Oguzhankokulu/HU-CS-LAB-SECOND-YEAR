@@ -1,3 +1,0 @@
-C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build/CMakeFiles/AsteroidDash.dir
-C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build/CMakeFiles/edit_cache.dir
-C:/Users/ahmet/CPP_Projects/School/Project_Assignment_2/build/CMakeFiles/rebuild_cache.dir
