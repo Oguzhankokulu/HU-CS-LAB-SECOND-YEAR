@@ -1,3 +1,0 @@
-/mnt/c/Users/ahmet/CPP_Projects/School/Project_Assignment_4/build/CMakeFiles/HUSLAND.dir
-/mnt/c/Users/ahmet/CPP_Projects/School/Project_Assignment_4/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/ahmet/CPP_Projects/School/Project_Assignment_4/build/CMakeFiles/rebuild_cache.dir
